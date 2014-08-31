@@ -2,7 +2,7 @@
   "author": "John Haugeland",
   "name": "sc.js",
   "description": "StoneCypher's javascript utilities. Common JS; NPM available. MIT licensed. Random-ish.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "url": "https://github.com/StoneCypher/sc.js"
   },
