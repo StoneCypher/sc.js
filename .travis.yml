@@ -11,5 +11,5 @@ node_js:
   - "0.11"
   - "0.10"
   - "iojs"
-before_script: cd src && npm install
+before_script: npm install
 script: npm test
